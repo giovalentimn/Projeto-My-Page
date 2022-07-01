@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title> Giovanna's Personal Site</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <img src="imagens/gio-modified.png" alt="Perfil Giovanna foto">
+    <h1>Giovanna Dantas</h1>
+     <p><em>Estudante de <strong>Análise e Desenvolvimento de Sistemas na <a href="https://www.uninter.com/">UNINTER</a></strong></em></p>
+     <hr>
+    <h3>Habilidades</h3>
+      <ul>
+        <li>Git</li>
+         <li><a href="https://github.com/giovalentimn">GitHub</a></li>
+          <li>HTML</li>
+          <li>CSS</li>
+      </ul>
+        <a href="hobbies.html">Hobbies</a><br>
+        <a href="Contato.html">Contato</a>
+  </body>
+</html>
